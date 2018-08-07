@@ -1,0 +1,2 @@
+# Push Chunks of Large MySQL Data to an Algolia Index with lodash
+Using the Lodash library, we’ll see how to split large amounts of data from a local MySQL database into smaller chunks and push them to an Algolia index.  
